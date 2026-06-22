@@ -1,14 +1,42 @@
-# 💫 About Me:
-i'm currently not working<br>i'm help to startup<br>i want bring something new 
+# 👋 Hi, I'm Sanjay
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjaylocalhost&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaylocalhost&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaylocalhost&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+- 💻 Full Stack Developer
+- 🌱 Continuously learning new technologies
+- 🤝 Supporting and collaborating with startups
+- 💡 Passionate about building innovative solutions
+- 🎯 Goal: Create impactful products that solve real-world problems
+
+## 🛠️ Tech Stack
+
+### Languages & Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+## 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=sanjaylocalhost&show_icons=true&theme=graywhite)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaylocalhost&theme=graywhite)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaylocalhost&layout=compact&theme=graywhite)
+
+## 🎯 Current Focus
+- Building scalable web applications
+- Exploring modern software development practices
+- Working with startup projects
+- Learning and improving every day
+
+## 📫 Connect With Me
+- GitHub: https://github.com/sanjaylocalhost
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjaylocalhost&icon=7&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ If you like my work, feel free to follow me and check out my repositories.
